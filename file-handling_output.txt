@@ -1,0 +1,11 @@
+        OUTPUT
+        
+$ ./file_handling.sh
+File is not readable
+File doesn't have editing / writing permission
+File is not executable
+It is not an ordinary file
+File is not a directory
+File is of zero size
+File do not exist
+
